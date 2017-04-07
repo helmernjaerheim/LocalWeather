@@ -1,6 +1,6 @@
 # LocalWeather
 
-Retrieves weather data about you current location and displays temperature and the weather condition. This is very simple, and only supports two types of conditions so far, which is clear and cloudy. Additional conditions can easily be added.
+Retrieves weather data about you current location and displays temperature and the weather condition. This is a task presented by [freecodecamp](https://www.freecodecamp.com/). This solution is very simple, and only supports two types of conditions so far, which is clear and cloudy. Additional conditions can easily be added.
 
 It works fine on Firexof, Google Chrome and Internet Explorer. It has not been tested on other browsers. 
 
